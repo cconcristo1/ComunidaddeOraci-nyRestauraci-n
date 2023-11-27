@@ -539,9 +539,8 @@ body {
         .contenedor-iframe {
             width: 350px;
             height: 350px;
-            margin: 0 auto;
-	align-items: center;
-		margin-left: 0%;
+	    margin-left: 0%;
+		
         }
     }
   
