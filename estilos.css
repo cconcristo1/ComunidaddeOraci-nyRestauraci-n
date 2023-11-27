@@ -511,8 +511,10 @@ body {
 
 	/* Estilos generales */
     .contenedor-iframe {
-        position: relative;
+	position: relative;
+	display: flex;
         overflow: hidden;
+	align-items: center;
     }
     
     .contenedor-iframe iframe {
@@ -538,6 +540,7 @@ body {
             width: 350px;
             height: 350px;
             margin: 0 auto;
+	align-items: center;
         }
     }
   
